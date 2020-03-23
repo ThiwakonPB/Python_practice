@@ -1,6 +1,7 @@
+
+import player as player
 print('Hello and welcome to the world of Goblin slaying')
-print('What is your name?')
-name = input()
+name = input('What is your name?')
 def naming(name):
     print('You entered "DipShit" Is this correct?')
     print('1:Yes 2:No')
@@ -20,6 +21,3 @@ print(name + ' Starts off in a town know as The Helmlet, You decided to get room
 print('Arriving at the town')
 print('Stap, press any to exit')
 
-
-class human : 
-    def stats(self,atk,deff,spd,matk)
